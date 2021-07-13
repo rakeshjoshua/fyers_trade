@@ -1,0 +1,2 @@
+app_id:CNV8485LDQ
+app_secret:6F5JQ8DCU3
